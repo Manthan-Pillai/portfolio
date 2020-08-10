@@ -1,0 +1,15 @@
+.site-banner .banner-area{
+width: 100%;
+    height: 25vh;
+
+}
+
+
+
+.site-banner .banner-area .author {
+    margin: 0px;
+    position: absolute;
+    top: 106%;
+    left: 50%;
+}
+
